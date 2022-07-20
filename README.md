@@ -1,1 +1,3 @@
-# generative-adversarial-network
+# Generative adversarial network (GAN)
+-> Status: development ⚠️
+
